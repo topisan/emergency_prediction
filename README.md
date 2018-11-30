@@ -1,5 +1,4 @@
-# emergency_prediction
-Emergency prediction on Canary Islands
+# summer coding
 
+I wrote this code to scrap indformation from the web
 
-Goal of this project is predicting emergency cases on Canary Islands. 
